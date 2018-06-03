@@ -1,0 +1,18 @@
+<view class='container'>
+  <view class='search'>
+    <image src='../../icon/search.png' class='search-image'></image>
+    <input placeholder="搜索商品" type='text' class='stuff' focus='true' bindconfirm='search' bindinput='input'>
+    </input>
+  </view>
+
+   <view class="{{display?'content':'content_no_display'}}">
+      <view class="WViewRow1" wx:for="{{resultArray}}">
+        <image class="WImage" src="{{item.image}}">
+        </image>
+        <view class="WViewRow2">
+          <text class="WText16PT1">{{item.name}}</text>
+          <text class="WText16PT1">{{item.price}}</text>
+        </view>
+      </view>
+  </view> 
+</view>

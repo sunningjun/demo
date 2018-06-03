@@ -1,0 +1,47 @@
+<view class='container'>
+  <view class="WViewRow1" style="">
+      <!-- <view class="WViewRow4" style=""> -->
+      <image class="WImage" style="" src="../../images/milk/1.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">蓝莓奶昔</text>
+        <text class="WText16PT1" style="">￥25</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥25</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/milk/2.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">草莓奶昔</text>
+        <text class="WText16PT1" style="">￥25</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥25</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/milk/3.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">雪顶咖啡</text>
+        <text class="WText16PT1" style="">￥30</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥30</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/milk/4.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">芒果西米露</text>
+        <text class="WText16PT1" style="">￥45</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥45</text>
+      </view> -->
+    </view>
+</view>

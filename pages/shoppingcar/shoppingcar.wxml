@@ -1,0 +1,11 @@
+<view class='container'>
+  <view class='content'>
+  <!-- <view></view> -->
+    <view class="{{display?'null_content_display':'null_content_nodisplay'}}">
+      <image src='../../icon/car_null.png' class='null_image'></image>
+      <view class='content_text_view'>
+            <text class='content_text'>~此处空空如也~</text>
+      </view>
+    </view>
+  </view>
+</view>

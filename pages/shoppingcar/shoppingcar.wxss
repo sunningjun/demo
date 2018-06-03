@@ -1,0 +1,19 @@
+@import "../../null.wxss"
+.container{
+  width: 100%;
+  height: 100%;
+  background-color: whitesmoke;
+
+}
+.null_image{
+  width: 50px;
+  height: 50px;
+}
+.null_content_display{
+  position: relative;
+  align-content: center;
+  top: 100px;
+}
+.content_text_view{
+  margin-top: 10px;
+}

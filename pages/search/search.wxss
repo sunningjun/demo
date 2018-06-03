@@ -1,0 +1,25 @@
+@import "../../more.wxss"
+.search{
+  display: flex;
+  width:90%;
+  border: solid 1px whitesmoke; 
+  border-radius: 5px;
+  background-color: ghostwhite;
+  margin: 2% 5% 5% 5%;
+  height: 5%;
+}
+.search-image{
+ width: 20px;
+ height: 20px;
+ margin-right: 10px;
+}
+.search .stuff{
+  font-size: 12px;
+}
+.content{
+  width: 100%;
+  height: 90%;
+}
+.content_no_display{
+  display: none;
+}

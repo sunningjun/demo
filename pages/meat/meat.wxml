@@ -1,0 +1,48 @@
+
+<view class='container'>
+ <view class="WViewRow1" style="">
+      <!-- <view class="WViewRow4" style=""> -->
+      <image class="WImage" style="" src="../../images/ham1.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">牛肉汉堡</text>
+        <text class="WText16PT1" style="">￥40</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥40</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/him2.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">鸡肉汉堡</text>
+        <text class="WText16PT1" style="">￥25</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/meat1.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">烤串</text>
+        <text class="WText16PT1" style="">￥150</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥150</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/meat3.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">牛排</text>
+        <text class="WText16PT1" style="">￥200</text>
+
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥200</text>
+      </view> -->
+    </view>
+</view>

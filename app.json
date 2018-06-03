@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/search/search",
+    "pages/meat/meat",
+    "pages/product_detail/detail",
+    "pages/index/index",
+    "pages/accept/accept",
+    "pages/feedback/feedback",
+    "pages/userinfo/userinfo",
+    "pages/address/address",
+    "pages/collect/collect",
+    "pages/shoppingcar/shoppingcar",
+    "pages/order/order",
+    "pages/milk/milk",
+    "pages/seafood/seafood",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "咖啡陪你",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "icon/index.png",
+        "selectedIconPath": "icon/index.png"
+      },
+      {
+        "pagePath": "pages/shoppingcar/shoppingcar",
+        "text": "购物车",
+        "iconPath": "icon/shopping.png",
+        "selectedIconPath": "icon/shopping.png"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "text": "订单",
+        "iconPath": "icon/order.png",
+        "selectedIconPath": "icon/order.png"
+      },
+      {
+        "pagePath": "pages/userinfo/userinfo",
+        "text": "更多",
+        "iconPath": "icon/user.png",
+        "selectedIconPath": "icon/user.png"
+      }
+    ]
+  }
+}

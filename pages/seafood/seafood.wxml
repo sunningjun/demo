@@ -1,0 +1,48 @@
+
+<view class='container'>
+  <view class="WViewRow1" style="">
+      <!-- <view class="WViewRow4" style=""> -->
+      <image class="WImage" style="" src="../../images/seafood/1.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">龙虾</text>
+        <text class="WText16PT1" style="">￥600</text>
+
+      </view>
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/seafood/2.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">蒜蓉粉丝蒸扇贝</text>
+        <text class="WText16PT1" style="">￥100</text>
+
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥100</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/seafood/3.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">海鲜汤锅</text>
+        <text class="WText16PT1" style="">￥1500</text>
+
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥1500</text>
+      </view> -->
+    </view>
+    <view class="WViewRow1" style="">
+      <image class="WImage" style="" src="../../images/seafood/4.jpg">
+      </image>
+      <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">海鲜蒸锅</text>
+        <text class="WText16PT1" style="">￥2599</text>
+      </view>
+      <!-- <view class="WViewRow2" style="">
+        <text class="WText16PT1" style="">￥2599</text>
+      </view> -->
+    </view>
+</view>
